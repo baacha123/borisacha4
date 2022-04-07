@@ -7,6 +7,3 @@ Resources:
         Alias: "CDLambdaVersion"
         CurrentVersion: "1"
         TargetVersion: "2"
-artifacts:
-  files:
-    - appspec.yml
