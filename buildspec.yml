@@ -19,5 +19,4 @@ phases:
 artifacts:
     files:
         - appspec.yml
-    name: buildArtifact-$AWS_REGION 
             
